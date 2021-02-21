@@ -1,3 +1,4 @@
+//Code for making the light blink after every one second
 int ledPin=13;
 void setup()
 {

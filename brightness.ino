@@ -1,3 +1,4 @@
+//Code for controlling brightnesss of the led
 int  led=0;
 boolean button=LOW;
 boolean currentButton=LOW;
